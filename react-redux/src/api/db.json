@@ -1,0 +1,44 @@
+{
+  "champions": [
+    {
+      "id": 1,
+      "name": "Jhin",
+      "line": "bot"
+    },
+    {
+      "id": 2,
+      "name": "Jinx",
+      "line": "bot"
+    },
+    {
+      "id": 3,
+      "name": "Caitlyn",
+      "line": "bot"
+    },
+    {
+      "id": 4,
+      "name": "Zoe",
+      "line": "mid"
+    },
+    {
+      "id": 5,
+      "name": "Xayah",
+      "line": "bot"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Mundo",
+      "line": "top"
+    },
+    {
+      "id": 1639619458212,
+      "name": "Kalista",
+      "line": "bot"
+    },
+    {
+      "id": 1641239881376,
+      "name": "ciruelasaa",
+      "line": "botgh"
+    }
+  ]
+}
